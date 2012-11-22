@@ -1,0 +1,31 @@
+#Tue Nov 06 13:01:54 EST 2012
+AnesChanged=0
+com.powerflasher.fdt.core.CompatiblePlayers=AIR_Debug_Launcher
+com.powerflasher.fdt.core.CompilerArguments=-static-link-runtime-shared-libraries\=true\n-target-player\={playerVersion}\n-library-path+\="{flexSDK}/frameworks/locale/en_US"\n-default-size\=550,400\n-keep-as3-metadata+\=Inject\n-keep-as3-metadata+\=PostConstruct
+com.powerflasher.fdt.core.DefaultOutputFolder=bin
+com.powerflasher.fdt.core.DefaultPlayer=AIR_Debug_Launcher
+com.powerflasher.fdt.core.Language=AS3
+com.powerflasher.fdt.core.PassClasspath=true
+com.powerflasher.fdt.core.PassExterns=false
+com.powerflasher.fdt.core.PassMainclass=true
+com.powerflasher.fdt.core.PassRsls=false
+com.powerflasher.fdt.core.PassSwcs=true
+com.powerflasher.fdt.core.PlatformType=MOBILE
+com.powerflasher.fdt.core.PlayerVersion=11.0
+com.powerflasher.fdt.core.ProjectTypeHint=AIR Mobile
+com.powerflasher.fdt.core.Runtime=AIR
+com.powerflasher.fdt.core.SdkName=BlackBerry Tablet OS SDK 2.0.0 for Adobe AIR
+com.powerflasher.fdt.core.mobile.BlackBerry.ACTIVE=true
+com.powerflasher.fdt.core.mobile.BlackBerry.AVAILABLE.EXTENSIONS=
+com.powerflasher.fdt.core.mobile.BlackBerry.DEPLOY.INSTALL.CHECK=false
+com.powerflasher.fdt.core.mobile.BlackBerry.DEPLOY.LOCATION=
+com.powerflasher.fdt.core.mobile.BlackBerry.DEPLOY.PRE.PACKAGE.LAUNCHER=\ -- No adequate launcher found\! -- 
+com.powerflasher.fdt.core.mobile.BlackBerry.ENABLE.DIGITAL.SIGNING=true
+com.powerflasher.fdt.core.mobile.BlackBerry.EXTRA.PACKAGING.OPTIONS=
+com.powerflasher.fdt.core.mobile.BlackBerry.ICON.PATH.icon\ 86x86=src/assets/images/icon.png
+com.powerflasher.fdt.core.mobile.BlackBerry.ICON.PATH.splash\ 1024x600=src/assets/images/splash.png
+com.powerflasher.fdt.core.mobile.BlackBerry.ICON.PATH.splash\ 600x1024=
+com.powerflasher.fdt.core.mobile.BlackBerry.MOBILE.DESCRIPTOR=bin/TUIOPlayBookTabletOS2.0-app.xml
+com.powerflasher.fdt.core.mobile.BlackBerry.MOBILE.DESCRIPTOR1=bin/bar-descriptor.xml
+com.powerflasher.fdt.core.mobile.BlackBerry.PACKAGE.CONTENT=bin/TUIOPlayBookTabletOS2.0-app.xml > TUIOPlayBookTabletOS2.0-app.xml;bin/bar-descriptor.xml > bar-descriptor.xml;bin/TUIOPlayBookTabletOS2.0.swf > TUIOPlayBookTabletOS2.0.swf;
+eclipse.preferences.version=1

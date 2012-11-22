@@ -1,0 +1,9 @@
+# Ignore files from git 
+
+# mac osx files
+._*
+.DS_STORE
+
+
+# windows files
+.db
